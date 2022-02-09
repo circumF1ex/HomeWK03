@@ -1,0 +1,11 @@
+C:\Users\danil\Desktop\HomeWK03\HomeWK03\obj\Debug\HomeWK03.csproj.AssemblyReference.cache
+C:\Users\danil\Desktop\HomeWK03\HomeWK03\obj\Debug\HomeWK03.csproj.SuggestedBindingRedirects.cache
+C:\Users\danil\Desktop\HomeWK03\HomeWK03\obj\Debug\HomeWK03.csproj.CoreCompileInputs.cache
+C:\Users\danil\Desktop\HomeWK03\HomeWK03\bin\Debug\HomeWK03.exe.config
+C:\Users\danil\Desktop\HomeWK03\HomeWK03\bin\Debug\HomeWK03.exe
+C:\Users\danil\Desktop\HomeWK03\HomeWK03\bin\Debug\HomeWK03.pdb
+C:\Users\danil\Desktop\HomeWK03\HomeWK03\bin\Debug\HomeWK03_lib.dll
+C:\Users\danil\Desktop\HomeWK03\HomeWK03\bin\Debug\HomeWK03_lib.pdb
+C:\Users\danil\Desktop\HomeWK03\HomeWK03\obj\Debug\HomeWK03.csproj.CopyComplete
+C:\Users\danil\Desktop\HomeWK03\HomeWK03\obj\Debug\HomeWK03.exe
+C:\Users\danil\Desktop\HomeWK03\HomeWK03\obj\Debug\HomeWK03.pdb
